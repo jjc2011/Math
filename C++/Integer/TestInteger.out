@@ -1,0 +1,141 @@
+Running main() from gtest_main.cc
+[==========] Running 62 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 62 tests from Integer
+[ RUN      ] Integer.shift_left_digits_1
+[       OK ] Integer.shift_left_digits_1 (0 ms)
+[ RUN      ] Integer.shift_left_digits_2
+[       OK ] Integer.shift_left_digits_2 (0 ms)
+[ RUN      ] Integer.shift_left_digits_3
+[       OK ] Integer.shift_left_digits_3 (0 ms)
+[ RUN      ] Integer.shift_right_digits_1
+[       OK ] Integer.shift_right_digits_1 (0 ms)
+[ RUN      ] Integer.shift_right_digits_2
+[       OK ] Integer.shift_right_digits_2 (0 ms)
+[ RUN      ] Integer.shift_right_digits_3
+[       OK ] Integer.shift_right_digits_3 (0 ms)
+[ RUN      ] Integer.plus_digits_1
+[       OK ] Integer.plus_digits_1 (0 ms)
+[ RUN      ] Integer.plus_digits_2
+[       OK ] Integer.plus_digits_2 (0 ms)
+[ RUN      ] Integer.plus_digits_3
+[       OK ] Integer.plus_digits_3 (0 ms)
+[ RUN      ] Integer.minus_digits_1
+[       OK ] Integer.minus_digits_1 (0 ms)
+[ RUN      ] Integer.minus_digits_2
+[       OK ] Integer.minus_digits_2 (0 ms)
+[ RUN      ] Integer.minus_digits_3
+[       OK ] Integer.minus_digits_3 (0 ms)
+[ RUN      ] Integer.minus_digits_4
+[       OK ] Integer.minus_digits_4 (0 ms)
+[ RUN      ] Integer.multiplies_digits_1
+[       OK ] Integer.multiplies_digits_1 (0 ms)
+[ RUN      ] Integer.multiplies_digits_2
+[       OK ] Integer.multiplies_digits_2 (0 ms)
+[ RUN      ] Integer.multiplies_digits_3
+[       OK ] Integer.multiplies_digits_3 (0 ms)
+[ RUN      ] Integer.divides_digits_1
+[       OK ] Integer.divides_digits_1 (0 ms)
+[ RUN      ] Integer.divides_digits_2
+[       OK ] Integer.divides_digits_2 (0 ms)
+[ RUN      ] Integer.divides_digits_3
+[       OK ] Integer.divides_digits_3 (0 ms)
+[ RUN      ] Integer.constructor_1
+[       OK ] Integer.constructor_1 (0 ms)
+[ RUN      ] Integer.constructor_2
+[       OK ] Integer.constructor_2 (0 ms)
+[ RUN      ] Integer.constructor_3
+[       OK ] Integer.constructor_3 (0 ms)
+[ RUN      ] Integer.abs_1
+[       OK ] Integer.abs_1 (0 ms)
+[ RUN      ] Integer.abs_2
+[       OK ] Integer.abs_2 (0 ms)
+[ RUN      ] Integer.abs_3
+[       OK ] Integer.abs_3 (0 ms)
+[ RUN      ] Integer.equal_to_1
+[       OK ] Integer.equal_to_1 (0 ms)
+[ RUN      ] Integer.equal_to_2
+[       OK ] Integer.equal_to_2 (0 ms)
+[ RUN      ] Integer.equal_to_3
+[       OK ] Integer.equal_to_3 (0 ms)
+[ RUN      ] Integer.less_than_1
+[       OK ] Integer.less_than_1 (0 ms)
+[ RUN      ] Integer.less_than_2
+[       OK ] Integer.less_than_2 (0 ms)
+[ RUN      ] Integer.less_than_3
+[       OK ] Integer.less_than_3 (0 ms)
+[ RUN      ] Integer.negation_1
+[       OK ] Integer.negation_1 (0 ms)
+[ RUN      ] Integer.negation_2
+[       OK ] Integer.negation_2 (0 ms)
+[ RUN      ] Integer.negation_3
+[       OK ] Integer.negation_3 (0 ms)
+[ RUN      ] Integer.plus_equals_1
+[       OK ] Integer.plus_equals_1 (0 ms)
+[ RUN      ] Integer.plus_equals_2
+[       OK ] Integer.plus_equals_2 (0 ms)
+[ RUN      ] Integer.plus_equals_3
+[       OK ] Integer.plus_equals_3 (0 ms)
+[ RUN      ] Integer.minus_equals_1
+[       OK ] Integer.minus_equals_1 (0 ms)
+[ RUN      ] Integer.minus_equals_2
+[       OK ] Integer.minus_equals_2 (0 ms)
+[ RUN      ] Integer.minus_equals_3
+[       OK ] Integer.minus_equals_3 (0 ms)
+[ RUN      ] Integer.times_equals_1
+[       OK ] Integer.times_equals_1 (1 ms)
+[ RUN      ] Integer.times_equals_2
+[       OK ] Integer.times_equals_2 (0 ms)
+[ RUN      ] Integer.times_equals_3
+[       OK ] Integer.times_equals_3 (0 ms)
+[ RUN      ] Integer.divide_equals_1
+[       OK ] Integer.divide_equals_1 (0 ms)
+[ RUN      ] Integer.divide_equals_2
+[       OK ] Integer.divide_equals_2 (0 ms)
+[ RUN      ] Integer.divide_equals_3
+[       OK ] Integer.divide_equals_3 (0 ms)
+[ RUN      ] Integer.mod_equals_1
+[       OK ] Integer.mod_equals_1 (0 ms)
+[ RUN      ] Integer.mod_equals_2
+[       OK ] Integer.mod_equals_2 (0 ms)
+[ RUN      ] Integer.mod_equals_3
+[       OK ] Integer.mod_equals_3 (0 ms)
+[ RUN      ] Integer.left_shift_equals_1
+[       OK ] Integer.left_shift_equals_1 (0 ms)
+[ RUN      ] Integer.left_shift_equals_2
+[       OK ] Integer.left_shift_equals_2 (0 ms)
+[ RUN      ] Integer.left_shift_equals_3
+[       OK ] Integer.left_shift_equals_3 (0 ms)
+[ RUN      ] Integer.right_shift_equals_1
+[       OK ] Integer.right_shift_equals_1 (0 ms)
+[ RUN      ] Integer.right_shift_equals_2
+[       OK ] Integer.right_shift_equals_2 (0 ms)
+[ RUN      ] Integer.right_shift_equals_3
+[       OK ] Integer.right_shift_equals_3 (0 ms)
+[ RUN      ] Integer.output_1
+[       OK ] Integer.output_1 (0 ms)
+[ RUN      ] Integer.output_2
+[       OK ] Integer.output_2 (0 ms)
+[ RUN      ] Integer.output_3
+[       OK ] Integer.output_3 (0 ms)
+[ RUN      ] Integer.pow_1
+[       OK ] Integer.pow_1 (0 ms)
+[ RUN      ] Integer.pow_2
+[       OK ] Integer.pow_2 (0 ms)
+[ RUN      ] Integer.pow_3
+[       OK ] Integer.pow_3 (0 ms)
+[ RUN      ] Integer.pow_4
+[       OK ] Integer.pow_4 (0 ms)
+[----------] 62 tests from Integer (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 62 tests from 1 test case ran. (1 ms total)
+[  PASSED  ] 62 tests.
+
+
+File 'TestInteger.c++'
+Lines executed:81.88% of 436
+Branches executed:40.29% of 3758
+Taken at least once:20.14% of 3758
+Calls executed:34.60% of 3199
+Creating 'TestInteger.c++.gcov'
