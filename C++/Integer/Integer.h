@@ -1,9 +1,3 @@
-// --------------------------
-// projects/integer/Integer.h
-// Copyright (C) 2014
-// Glenn P. Downing
-// --------------------------
-
 #ifndef Integer_h
 #define Integer_h
 
